@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+
+header {
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    padding-top: 10px;
+    border: solid white 3px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 30px;
+}
+
+.meio {
+    background-color: white;
+    border-top: solid red 2px;
+    border-left: solid red 2px;
+    border-right: solid red 2px;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+.baixo {
+    background-color: red;
+    border: 2px solid white;
+    padding-top: 10px;
+
+
+}
+
+p {
+    text-align: left;
+    color: red;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}

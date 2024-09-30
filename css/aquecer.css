@@ -1,0 +1,57 @@
+header {
+    background-color: orange;
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 24px;
+    border: solid 10px blue;
+    border-radius: 30px;
+    color: blue;
+}
+
+body {
+    background-color: black;
+}
+
+footer {
+    background-color: blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: orange;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+p {
+    color: orange;
+    text-align: center;
+    text-transform: uppercase;
+    border: solid 2px blue;
+    font-size: 15px;
+    background-color: green;
+}
+
+p1 {
+    color: white;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+.botao {
+    color: white;
+    text-decoration: none;
+    margin-left: 285px;
+    border: solid 3px orange;
+    padding: 10px 10px 10px 10px;
+    background-color: black;
+    border-radius: 19px;
+}
+
+.botao:hover {
+    background-color: blue;
+}
